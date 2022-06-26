@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084519193051",
+    "project_id": "braceletlp-74975",
+    "storage_bucket": "braceletlp-74975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084519193051:android:15d6c4572d192f42006ffe",
+        "android_client_info": {
+          "package_name": "com.lcm.braceletlp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084519193051-l3a8j6oktmc44hm4oqcbadnhi78ae87f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehCx_hsThLZAVuug-E3bbsiF45rv-MYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084519193051-l3a8j6oktmc44hm4oqcbadnhi78ae87f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
